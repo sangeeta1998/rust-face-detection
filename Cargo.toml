@@ -1,0 +1,8 @@
+[package]
+name = "rust-face-detection"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tensorflow = "0.21.0"
+image = "0.23"     
